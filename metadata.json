@@ -1,0 +1,7 @@
+{
+  "name": "Copy of BikeGO!",
+  "description": "The rapid delivery marketplace connecting independent couriers with local businesses via a real-time map.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
